@@ -67,14 +67,14 @@ We are open for feedback. Please send your impression to vladimir.stojoc@gmail.c
 setup(
   name = 'molda',
   packages = ['molda'],
-  version = '0.1.0',
+  version = '0.1.1',
   license='MIT',
   description = 'Molda is a sci-kit learn inspired Python library for text vectorization of corpora. It is adapted to work in pipelines and numpy arrays.',
   long_description=long_description,
   long_description_content_type='text/markdown',
   author = 'SigmoidAI - Stojoc Vladimir, Smocvin Denis, Butucea Andrei, Sclifos Tudor',
   author_email = 'vladimir.stojoc@gmail.com',
-  url = 'https://github.com/SigmoidAI/kydavra',
+  url = 'https://github.com/SigmoidAI/molda',
   download_url = 'https://github.com/ScienceKot/kydavra/archive/v1.0.tar.gz',    # I explain this later on
   keywords = ['ml', 'machine learning', 'natural language processing', 'python'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
