@@ -79,11 +79,8 @@ setup(
   keywords = ['ml', 'machine learning', 'natural language processing', 'python'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'numpy',
-          'pandas',
           'scikit-learn',
-          'statsmodels',
-          'matplotlib',
-          'seaborn'
+          'scipy'
       ],
   classifiers=[
     'Development Status :: 3 - Alpha',
@@ -100,5 +97,8 @@ setup(
     'Programming Language :: Python :: 3.6',
     'Programming Language :: Python :: 3.7',
     'Programming Language :: Python :: 3.8',
+    'Programming Language :: Python :: 3.9',
+    'Programming Language :: Python :: 3.10',
+    'Programming Language :: Python :: 3.11',
   ],
 )
