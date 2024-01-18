@@ -75,9 +75,9 @@ setup(
   author = 'SigmoidAI - Stojoc Vladimir, Smocvin Denis, Butucea Adelina, Sclifos Tudor',
   author_email = 'vladimir.stojoc@gmail.com',
   url = 'https://github.com/SigmoidAI/molda',
-  download_url = 'https://github.com/ScienceKot/kydavra/archive/v1.0.tar.gz',    # I explain this later on
-  keywords = ['ml', 'machine learning', 'natural language processing', 'python'],   # Keywords that define your package best
-  install_requires=[            # I get to this in a second
+  download_url = 'https://github.com/ScienceKot/kydavra/archive/v1.0.tar.gz',    
+  keywords = ['ml', 'machine learning', 'natural language processing', 'python'],   
+  install_requires=[            
           'numpy',
           'scikit-learn',
           'scipy'
