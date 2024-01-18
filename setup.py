@@ -72,7 +72,7 @@ setup(
   description = 'Molda is a sci-kit learn inspired Python library for text vectorization of corpora. It is adapted to work in pipelines and numpy arrays.',
   long_description=long_description,
   long_description_content_type='text/markdown',
-  author = 'SigmoidAI - Stojoc Vladimir, Smocvin Denis, Butucea Andrei, Sclifos Tudor',
+  author = 'SigmoidAI - Stojoc Vladimir, Smocvin Denis, Butucea Adelina, Sclifos Tudor',
   author_email = 'vladimir.stojoc@gmail.com',
   url = 'https://github.com/SigmoidAI/molda',
   download_url = 'https://github.com/ScienceKot/kydavra/archive/v1.0.tar.gz',    # I explain this later on
